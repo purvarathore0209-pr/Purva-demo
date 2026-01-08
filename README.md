@@ -1,2 +1,9 @@
 # Purva-demo
 This is demo for Git &amp; Github Class
+
+# Teacher
+Shradha
+
+# Student
+Purva
+
